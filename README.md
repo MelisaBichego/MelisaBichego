@@ -12,9 +12,9 @@ Los cinco *comandos* que aprendí y me parecen interesantes:
 |    cd   | Permite navegar entre carpetas                  |
 ---
 Los *comandos alias* que me parecen útiles:
-| | `alias cl: "clear"` | `alias rm "trash" ` |
-| --- | ----- | ---- |
-| *Descripción* | Limpiar terminal | Borrar los archivos |
+|               | `alias cl: "clear"` | `alias rm "trash" ` |
+| ------------- | ------------------- | ------------------- |
+| *Descripción* |   Limpiar terminal  | Borrar los archivos |
 
 <!--
 **MelisaBichego/MelisaBichego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
